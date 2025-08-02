@@ -1,0 +1,67 @@
+:root {
+    /* colors */
+    --yellow: #F4D04E;
+    --gray-950: #111111;
+    --gray-500: #6B6B6B;
+    --white: #FFFFFF;
+
+    /* typography */
+    /* preset1 */
+    --preset1-font-weight: extra-bold;
+    --preset1-font-size: 24px;
+    --preset1-line-height: 150%;
+    --preset1-letter-spacing: 0;
+
+    /* preset2 */
+    --preset2-font-weight: medium;
+    --preset2-font-size: 16px;
+    --preset2-line-height: 150%;
+    --preset2-letter-spacing: 0;
+
+    /* preset3 */
+    --preset3-font-weight: medium;
+    --preset3-font-size: 14px;
+    --preset3-line-height: 150%;
+    --preset3-letter-spacing: 0;
+
+    /* preset3-bold */
+    --preset3-bold-font-weight: extra-bold;
+    --preset3-bold-font-size: 14px;
+    --preset3-bold-line-height: 150%;
+    --preset3-bold-letter-spacing: 0;
+
+    /* spacing */
+    --spacing-300: 24px;
+    --spacing-150: 12px;
+    --spacing-100: 8px;
+    --spacing-50: 4px;
+}
+
+
+.preset1-text {
+    font-weight: var(--preset1-font-weight);
+    font-size: var(--preset1-font-size);
+    line-height: var(--preset1-line-height);
+    letter-spacing: var(--preset1-letter-spacing);
+}
+
+.preset2-text {
+    font-weight: var(--preset2-font-weight);
+    font-size: var(--preset2-font-size);
+    line-height: var(--preset2-line-height);
+    letter-spacing: var(--preset2-letter-spacing);
+}
+
+.preset3-text {
+    font-weight: var(--preset3-font-weight);
+    font-size: var(--preset3-font-size);
+    line-height: var(--preset3-line-height);
+    letter-spacing: var(--preset3-letter-spacing);
+}
+
+.preset3-bold-text {
+    font-weight: var(--preset3-bold-font-weight);
+    font-size: var(--preset3-bold-font-size);
+    line-height: var(--preset3-bold-line-height);
+    letter-spacing: var(--preset3-bold-letter-spacing);
+}
