@@ -7,25 +7,25 @@
 
     /* typography */
     /* preset1 */
-    --preset1-font-weight: extra-bold;
+    --preset1-font-weight: 800;
     --preset1-font-size: 24px;
     --preset1-line-height: 150%;
     --preset1-letter-spacing: 0;
 
     /* preset2 */
-    --preset2-font-weight: medium;
+    --preset2-font-weight: 500;
     --preset2-font-size: 16px;
     --preset2-line-height: 150%;
     --preset2-letter-spacing: 0;
 
     /* preset3 */
-    --preset3-font-weight: medium;
+    --preset3-font-weight: 500;
     --preset3-font-size: 14px;
     --preset3-line-height: 150%;
     --preset3-letter-spacing: 0;
 
     /* preset3-bold */
-    --preset3-bold-font-weight: extra-bold;
+    --preset3-bold-font-weight: 800;
     --preset3-bold-font-size: 14px;
     --preset3-bold-line-height: 150%;
     --preset3-bold-letter-spacing: 0;
