@@ -37,6 +37,16 @@
     --spacing-50: 4px;
 }
 
+@font-face {
+    font-family: "Figtree";
+    src: 
+        /* load from the client device if exist */
+        local("Figtree"),
+        url(./assets/fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+
+    /* [medium, extra bold] */
+    font-weight: 500 800;
+}
 
 .preset1-text {
     font-weight: var(--preset1-font-weight);
