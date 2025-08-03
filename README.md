@@ -25,7 +25,7 @@ Blog Preview Card challenge is about building a simple card with with preview in
 ### Links
 
 - Solution URL: [https://github.com/Ahmed-Araby/Blog-Preview-Card](https://github.com/Ahmed-Araby/Blog-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ahmed-araby.github.io/Blog-Preview-Card/](https://ahmed-araby.github.io/Blog-Preview-Card/)
 
 ## My process
 - learning about variable fonts
