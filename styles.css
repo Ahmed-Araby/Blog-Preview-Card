@@ -127,22 +127,18 @@ main {
 @media (min-width: 1440px) {
     /* typography */
     .preset1-text {
-        font-weight: 800;
         font-size: 24px;
     }
     
     .preset2-text {
-        font-weight: 500;
         font-size: 16px;
     }
     
     .preset3-text {
-        font-weight: 500;
         font-size: 14px;
     }
     
     .preset3-bold-text {
-        font-weight: 800;
         font-size: 14px;
     }
 
