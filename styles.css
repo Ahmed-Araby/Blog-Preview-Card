@@ -133,3 +133,8 @@ main {
     color: var(--gray-950);
     margin: 12px 0 12px 0;
 }
+
+.title {
+    color: var(--gray-950);
+    margin-bottom: 12px;
+}
