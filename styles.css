@@ -35,32 +35,28 @@ body {
 }
 
 /* typography */
+.preset1-text, .preset2-text, .preset3-text, .preset3-bold-text {
+    line-height: 150%;
+    letter-spacing: 0;
+}
 .preset1-text {
     font-weight: 800;
     font-size: 20px;
-    line-height: 150%;
-    letter-spacing: 0;
 }
 
 .preset2-text {
     font-weight: 500;
     font-size: 14px;
-    line-height: 150%;
-    letter-spacing: 0;
 }
 
 .preset3-text {
     font-weight: 500;
     font-size: 12px;
-    line-height: 150%;
-    letter-spacing: 0;
 }
 
 .preset3-bold-text {
     font-weight: 800;
     font-size: 12px;
-    line-height: 150%;
-    letter-spacing: 0;
 }
 
 
@@ -133,29 +129,21 @@ main {
     .preset1-text {
         font-weight: 800;
         font-size: 24px;
-        line-height: 150%;
-        letter-spacing: 0;
     }
     
     .preset2-text {
         font-weight: 500;
         font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0;
     }
     
     .preset3-text {
         font-weight: 500;
         font-size: 14px;
-        line-height: 150%;
-        letter-spacing: 0;
     }
     
     .preset3-bold-text {
         font-weight: 800;
         font-size: 14px;
-        line-height: 150%;
-        letter-spacing: 0;
     }
 
     .blog-card {
