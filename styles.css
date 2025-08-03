@@ -115,3 +115,7 @@ main {
 .blog-img {
     border-radius: 10px;
 }
+
+.blog-caption {
+    margin: 24px 0 24px 0;
+}
