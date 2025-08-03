@@ -84,11 +84,13 @@ main {
     border: 1px solid var(--gray-950);
     border-radius: 20px;
 
-    padding: 24px 24px 0 24px;
+    padding: 24px;
 }
 
 .blog-img {
     border-radius: 10px;
+    width: 279px;
+    height: 200px;
 }
 
 .blog-caption {
@@ -115,7 +117,6 @@ main {
 }
 
 .author {
-    margin-bottom: 24px;
     width: max-content;
     gap: 12px;
 }
