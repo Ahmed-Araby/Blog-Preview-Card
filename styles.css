@@ -108,6 +108,10 @@ main {
     color: var(--gray-950);
     margin-bottom: var(--spacing-150);
 }
+.title:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
 .description {
     color: var(--gray-500);
 }
