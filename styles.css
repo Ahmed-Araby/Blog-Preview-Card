@@ -118,12 +118,18 @@ main {
 
 .blog-caption {
     margin: 24px 0 24px 0;
+    text-align: left;
 }
+
 .tag {
     background-color: var(--yellow);
     width: fit-content;
     border-radius: 4px;
     padding: 4px 12px 4px 12px;
-    text-align: left;
     color: var(--gray-950);
+}
+
+.publish-date {
+    color: var(--gray-950);
+    margin: 12px 0 12px 0;
 }
