@@ -75,7 +75,7 @@ main {
 }
 
 .blog-card {
-    width: 327px;
+    width: 329px;
     
     background-color: var(--white);
 
@@ -159,6 +159,6 @@ main {
     }
 
     .blog-card {
-        width: 384px;
+        width: 386px;
     }
 }
