@@ -20,7 +20,11 @@ Blog Preview Card challenge is about building a simple card with with preview in
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop
+![desktop-screenshot.png](https://github.com/Ahmed-Araby/Blog-Preview-Card/blob/main/documentation/images/desktop-screenshot.png)
+
+#### Mobile
+![mobile-screenshot.png](https://github.com/Ahmed-Araby/Blog-Preview-Card/blob/main/documentation/images/mobile-screenshot.png)
 
 ### Links
 
