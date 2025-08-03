@@ -48,6 +48,17 @@
     font-weight: 500 800;
 }
 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Figtree", sans-serif;
+}
+
+body {
+    height: 100vh;
+}
+
 .preset1-text {
     font-weight: var(--preset1-font-weight);
     font-size: var(--preset1-font-size);
@@ -75,3 +86,4 @@
     line-height: var(--preset3-bold-line-height);
     letter-spacing: var(--preset3-bold-letter-spacing);
 }
+
