@@ -119,3 +119,11 @@ main {
 .blog-caption {
     margin: 24px 0 24px 0;
 }
+.tag {
+    background-color: var(--yellow);
+    width: fit-content;
+    border-radius: 4px;
+    padding: 4px 12px 4px 12px;
+    text-align: left;
+    color: var(--gray-950);
+}
