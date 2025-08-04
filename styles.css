@@ -128,7 +128,11 @@ main {
     color: var(--gray-950);
 }
 
-@media (min-width: 820px) {
+
+
+
+/* Desktop styles */
+@media (min-width: 50em) {
     /* typography */
     .preset1-text {
         font-size: 24px;
