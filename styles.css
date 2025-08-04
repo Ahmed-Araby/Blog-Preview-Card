@@ -71,7 +71,7 @@ main {
 }
 
 .blog-card {
-    width: 329px;
+    width: 20.5625rem; /* 329px, given that the font size of the root element is 16px */
     
     background-color: var(--white);
 
@@ -151,6 +151,6 @@ main {
     }
 
     .blog-card {
-        width: 386px;
+        width: 24.125rem; /* 386px, given that the font size of the root element is 16px */
     }
 }
