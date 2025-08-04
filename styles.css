@@ -41,22 +41,22 @@ body {
 }
 .preset1-text {
     font-weight: 800;
-    font-size: 20px;
+    font-size: 1.25rem; /* 20px given that default font size for the root element is 16px */
 }
 
 .preset2-text {
     font-weight: 500;
-    font-size: 14px;
+    font-size: 0.875rem; /* 14px */
 }
 
 .preset3-text {
     font-weight: 500;
-    font-size: 12px;
+    font-size: 0.75rem; /* 12px */
 }
 
 .preset3-bold-text {
     font-weight: 800;
-    font-size: 12px;
+    font-size: 0.75rem; /* 12px */
 }
 
 
@@ -135,19 +135,19 @@ main {
 @media (min-width: 50em) {
     /* typography */
     .preset1-text {
-        font-size: 24px;
+        font-size: 1.5rem; /* 24px */
     }
     
     .preset2-text {
-        font-size: 16px;
+        font-size: 1rem; /* 16px */
     }
     
     .preset3-text {
-        font-size: 14px;
+        font-size: 0.875rem; /* 14px */
     }
     
     .preset3-bold-text {
-        font-size: 14px;
+        font-size: 0.875rem; /* 14px */
     }
 
     .blog-card {
